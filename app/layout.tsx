@@ -19,7 +19,6 @@ export default function RootLayout({
       <head>
         <meta name="referrer" content="no-referrer" />
         <link rel="icon" href="/icon.png?<generated>" type="image/<generated>" sizes="<generated>" />
-        <title></title>
       </head>
       <body>
         <div className="flex h-screen">
