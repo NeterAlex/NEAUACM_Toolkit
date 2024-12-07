@@ -16,7 +16,7 @@ import Link from "next/link";
 export function AppSidebar() {
   const toolItems = [
     { name: "假条生成", href: "/leavn", icon: FileOutput },
-    { name: "证书生成", href: "/cert", icon: Award },
+    { name: "证书生成", href: "/certificate", icon: Award },
     { name: "数据转换", href: "/convert", icon: SwitchCamera },
   ];
   const linkItems = [
